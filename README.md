@@ -8,7 +8,7 @@ I'm Caglar.
 - :magnet: I'm looking for full time day job as Data Scientist.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/caglarustun/)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I recently moved to London and dropped out PhD in Earthquake Engineering.
+- ⚡ Fun fact: I recently moved to :round_pushpin:London and dropped out PhD in Earthquake Engineering.
 
 
 
