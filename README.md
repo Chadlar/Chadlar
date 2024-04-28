@@ -5,7 +5,7 @@ I'm Caglar.
 - 🌱 I’m currently studying to be a **Data Scientist**.
 - 🔭 I’m currently working on Python and Jupyter with libraries such as NumPy, pandas, matplotlib, seaborn, scikit-learn, SciPy, PyTorch and more...
 - :triangular_ruler: My university degrees are *Civil Engineering BSc.* and *Structural Engineering MSc.*
-- :magnet: I'm looking for full time day job as Data Scientist.
+- :magnet: I'm looking for a full time job in the field of Data Science.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/caglarustun/)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I recently moved to :round_pushpin:London and dropped out PhD in Earthquake Engineering.
