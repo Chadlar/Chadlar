@@ -3,7 +3,7 @@
 ### Welcome to my GitHub profile
 I'm Caglar.
 - 🌱 I’m currently studying to be a **Data Scientist**.
-- 🔭 I’m currently working on Python and Jupyter with libraries such as NumPy, pandas, matplotlib, seaborn, scikit-learn, SciPy, PyTorch etc.
+- 🔭 I’m currently working on Python and Jupyter with libraries such as NumPy, pandas, matplotlib, seaborn, scikit-learn, SciPy, PyTorch and more...
 - :triangular_ruler: My university degrees are *Civil Engineering BSc.* and *Structural Engineering MSc.*
 - :magnet: I'm looking for full time day job as Data Scientist.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/caglarustun/)
